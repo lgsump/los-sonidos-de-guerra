@@ -15,3 +15,5 @@ layout: home
 (Placeholder for the Spanish introduction)
 <br>
 <hr>
+(Translation of "Here is a link to the project in") <a href="https://lgsump.github.io/the-sounds-of-war/">inglés</a>.
+<hr>
