@@ -4,3 +4,14 @@
 
 layout: home
 ---
+<h2> Los sonidos de guerra:</h2>
+<h4> Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990</h4>
+<hr>
+<br>
+<p style="text-align:center;"><img width="459" alt="Screen Shot 2023-02-10 at 6 49 09 PM" src="https://user-images.githubusercontent.com/122332459/218227951-0b39412c-2a5e-4be6-bc74-3233c31852f7.png"></p>
+<br>
+<h6>De "R-Radio Venceremos" en <a href="https://www.facebook.com/photo/?fbid=130351969093452&set=a.130351955760120">Facebook</a>.</h6>
+<br>
+(Placeholder for the Spanish introduction)
+<br>
+<hr>
