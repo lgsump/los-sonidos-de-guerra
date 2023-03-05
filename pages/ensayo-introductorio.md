@@ -7,6 +7,8 @@ permalink: ensayo-introductorio
 using HTML or markdown.  Do not modify this file above this line -->
 <h2>(Intro to Spanish essay placeholder)</h2>
 <hr>
+(Translation of Here is a link to the introductory essay in) <a href="https://lgsump.github.io/the-sounds-of-war/introductory-essay">inglés</a>.
+<hr>
 <br>
 (Placeholder)
 <br>
