@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ensayo introductorio
-permalink: ensayo-introductorio
+title: Introducción
+permalink: introducción
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
