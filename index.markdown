@@ -4,8 +4,8 @@
 
 layout: home
 ---
-<center><h1> Los sonidos de guerra:</h2></center>
-<center><h2> Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990</center></h4>
+<h1><center>Los sonidos de guerra:</center></h2>
+<h2> Las violencias reportadas en las transmisiones de <i>Radio Venceremos</i>, 1981-1990<</h4>
 <hr>
 <left>
 <br>
