@@ -23,16 +23,6 @@
         "id": "https://lgsump.github.io/los-sonidos-de-guerra/1981-05-20-anotaciones/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2827,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/los-sonidos-de-guerra/annotations/1981-05-20-anotaciones-canvas-1-radio-venceremos.json",
-            "label": {
-              "none": ["Radio Venceremos"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://lgsump.github.io/los-sonidos-de-guerra/1981-05-20-anotaciones/canvas-1/paintings",
