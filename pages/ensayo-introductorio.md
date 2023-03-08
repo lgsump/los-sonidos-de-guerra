@@ -5,7 +5,7 @@ permalink: introducción
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-<h2><center>(Intro to Spanish essay placeholder)</h2> </center>
+<h2><center>(Intro to Spanish essay placeholder)</center></h2>
 <hr>
 <h3>Proyecto en <a href="https://lgsump.github.io/the-sounds-of-war/introductory-essay">inglés</a>.</h3>
 <hr>
