@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://lgsump.github.io/los-sonidos-de-guerra/annotations/1981-05-20-anotaciones-canvas-1-m-sica.json",
-            "label": {
-              "none": ["Música"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://lgsump.github.io/los-sonidos-de-guerra/annotations/1981-05-20-anotaciones-canvas-1-radio-venceremos.json",
             "label": {
               "none": ["Radio Venceremos"]
