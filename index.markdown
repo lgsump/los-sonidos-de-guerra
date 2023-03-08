@@ -13,7 +13,7 @@ layout: home
 <br>
 <h6>Tomado de <a href="https://www.facebook.com/photo/?fbid=130351969093452&set=a.130351955760120">Facebook</a>.</h6>
 <br>
-<h5><left>(Placeholder for the Spanish introduction)</left></h5>
+  <p style="text-align:left;"><h5><left>(Placeholder for the Spanish introduction)</left></h5></p>
 <br>
 <hr>
 <h1>Proyecto en <a href="https://lgsump.github.io/the-sounds-of-war/">inglés</a>.</h1>
