@@ -13,9 +13,9 @@ layout: home
 <br>
 <h6>De "R-Radio Venceremos" en <a href="https://www.facebook.com/photo/?fbid=130351969093452&set=a.130351955760120">Facebook</a>.</h6>
 <br>
-(Placeholder for the Spanish introduction)
+<h5><left>(Placeholder for the Spanish introduction)</left></h5>
 <br>
 <hr>
-(Translation of "Here is a link to the project in") <a href="https://lgsump.github.io/the-sounds-of-war/">inglés</a>.
+<h1>Proyecto en <a href="https://lgsump.github.io/the-sounds-of-war/">inglés</a>.</h1>
 <hr>
 </left>
